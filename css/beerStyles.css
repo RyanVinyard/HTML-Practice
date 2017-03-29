@@ -1,0 +1,26 @@
+body {
+  background-image: url("http://www.beerclings.com/image/cache/data/Keg%20Label_BeerBackground-500x500.png");
+  background-size: cover;
+}
+
+h2 {
+  color: black;
+  text-shadow: 3px 3px 4px yellow;
+}
+
+h4 {
+  font-size: 16pt;
+}
+h4:hover {
+  text-shadow: 2px 2px gray;
+}
+
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
