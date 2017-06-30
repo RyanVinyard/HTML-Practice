@@ -19,7 +19,7 @@ body {
 }
 
 #aboutMe {
-  color: red;
+  color: #b30000;
   font-weight: bold;
 }
 
@@ -33,4 +33,9 @@ body {
   background: darkred;
   border-radius: 4px;
   display: inline;
+}
+
+.jumbotron {
+  border-radius: 24px !important;
+  background-color: #666666;
 }
