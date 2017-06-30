@@ -13,9 +13,7 @@ h3 {
 }
 
 body {
-  background-image: url("http://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/City_Landscape_Background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url("http://www.designyourway.net/diverse/darkpat/COLOURlovers.com-Background1.jpg");
 }
 
 #aboutMe {
@@ -28,7 +26,7 @@ body {
 }
 
 #border h5 {
-  color: lightgreen;
+  color: white;
   border: 3px solid red;
   background: darkred;
   border-radius: 4px;
@@ -38,4 +36,20 @@ body {
 .jumbotron {
   border-radius: 24px !important;
   background-color: #666666;
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+p {
+  color: white;
 }
